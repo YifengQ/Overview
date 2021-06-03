@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/NyanCat.gif" alt="Logo" width="500" height="270">
+  <img src="assets/NyanCat.gif" alt="Logo" width="480" height="368">
 </p>
 
 # About me
