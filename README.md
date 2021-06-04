@@ -25,4 +25,3 @@
 ## Summary 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YifengQ&layout=compact&show_icons=true&theme=radical)](https://github.com/YifengQ)
 
-##[![Pedram's GitHub stats](https://github-readme-stats.vercel.app/api?username=YifengQ&show_icons=true&theme=radical)](https://github.com/YifengQ)
