@@ -11,6 +11,7 @@
 - Robotics (Navigation, Perception)
 - AI/ML
 - Full-Stack Development
+- Cloud 
 
 
 ## Setup
