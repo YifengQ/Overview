@@ -8,10 +8,9 @@
 
 
 ## Interests 
-- Robotics (Navigation, Perception)
 - AI/ML
 - Full-Stack Development
-- Cloud 
+- Microservices 
 
 
 ## Setup
