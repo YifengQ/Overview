@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/NyanCat.gif" alt="Logo" width="336" height="258">
-</p>
-
 # About me
 <p> I'm Yifeng Qin, Recent Graducate Currently Job Hunting
 <br/>
