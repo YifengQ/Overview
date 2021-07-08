@@ -7,6 +7,7 @@
 - AI/ML
 - Full-Stack Development
 - Microservices 
+- Big Data
 
 
 ## Setup
