@@ -4,7 +4,7 @@
 
 
 ## Interests 
-- AI/ML
+- AI / ML
 - Full-Stack Development
 - Microservices 
 - Big Data
